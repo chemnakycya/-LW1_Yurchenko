@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 4e85f43f3dd786f32eaf6d7ddad9f54984d5aa8f Daryna Yurchenko <dasya.ua@gmail.com> 1637892945 +0200	commit (initial): First commit
+4e85f43f3dd786f32eaf6d7ddad9f54984d5aa8f 13dad1677d57b8a12b91f7f7fad31104c4121d9d Daryna Yurchenko <dasya.ua@gmail.com> 1637893492 +0200	commit: Second commit
+13dad1677d57b8a12b91f7f7fad31104c4121d9d 078e8af8b9381dc5fc85a94d43da350060a79b64 Daryna Yurchenko <dasya.ua@gmail.com> 1637893623 +0200	commit: Third commit
+078e8af8b9381dc5fc85a94d43da350060a79b64 309009bf371f9cb2d25994913b0f25d3174b1c7f Daryna Yurchenko <dasya.ua@gmail.com> 1637894060 +0200	commit: Commit 6.2
